@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Corso_CSharp.Persona">
+    <Position X="1" Y="1" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AgAAgAABAoAAAAAAAAAABAABAAAAAAAAAIAABAEAAAA=</HashCode>
+      <FileName>Classi\Persona.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Corso_CSharp.Dipendente">
+    <Position X="6" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAACAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Classi\Dipendente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Corso_CSharp.IUomo">
+    <Position X="10.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAEAAAA=</HashCode>
+      <FileName>Classi\IUomo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Corso_CSharp.RuoloDipendente">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAgCAAAAA=</HashCode>
+      <FileName>Classi\RuoloDipendente.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

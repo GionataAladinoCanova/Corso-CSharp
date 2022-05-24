@@ -10,6 +10,9 @@ namespace Corso_CSharp
     {
         static void Main(string[] args)
         {
+            // La classe Collaudo è definita come statica,
+            // quindi NON devo inizializzare l'oggetto
+            Classi.Collaudo.Esegui();
         }
     }
 }
